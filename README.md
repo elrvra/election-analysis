@@ -41,3 +41,7 @@ Statement: The script can be re-used for any type of election with data that is 
 
 1) Example: The variables for identifying the candidate name and county name are defined by column header (i.e row 2 for candidate name and row 1 for county name) as shown below in below picture. One could alter this information for another type of election, by: (a) overwriting the .csv file with the new information using the sames columns by copying over the data appropriately (b) making sure to update all other code where the previous variables names were mentioned and update with the revised variables names. 
 
+![alt tag](https://github.com/elrvra/election-analysis/blob/main/Resources/Deliverable_3_Example_1.png)
+
+2) Example: Additional 
+
