@@ -14,12 +14,16 @@ All together the votes cast by these three methods will determine the final elec
 ### Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary. 
 1) How many votes were cast in this congressional election?
 ![alt tag](https://github.com/elrvra/election-analysis/blob/main/Resources/1_Total_Votes.png)
+
 2) Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 ![alt tag](https://github.com/elrvra/election-analysis/blob/main/Resources/2_County_Votes_Percentage.png)
+
 3) Which county had the largest number of votes?
 ![alt tag](https://github.com/elrvra/election-analysis/blob/main/Resources/3_County_Votes_Largest.png)
+
 4) Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 ![alt tag](https://github.com/elrvra/election-analysis/blob/main/Resources/4_Candidate_Votes_Percentage.png)
+
 5) Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 ![alt tag](https://github.com/elrvra/election-analysis/blob/main/Resources/5_Winner_of_Election.png)
 
