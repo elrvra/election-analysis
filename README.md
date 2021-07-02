@@ -43,5 +43,4 @@ Statement: The script can be re-used for any type of election with data that is 
 
 ![alt tag](https://github.com/elrvra/election-analysis/blob/main/Resources/Deliverable_3_Example_1.png)
 
-2) Example: Additional 
 
